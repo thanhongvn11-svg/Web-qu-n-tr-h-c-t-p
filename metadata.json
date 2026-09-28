@@ -1,0 +1,7 @@
+{
+  "name": "Quản Trị Lớp Học 8A2 - THCS Gia An",
+  "description": "Hệ thống quản trị lớp học hiện đại dành cho Giáo viên chủ nhiệm Nguyễn Thị Hồng Anh - THCS Gia An. Đồng hành cùng học sinh – Kiến tạo tương lai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
